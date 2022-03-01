@@ -1,0 +1,14 @@
+.btn {
+border: 3px solid red;   
+ text-align: center;
+ flex: 1;
+}
+
+div {
+    border: 2px solid black;
+}
+
+.container {
+    display: flex;
+justify-content: space-between;
+}
